@@ -1,0 +1,194 @@
+body {
+	margin: 0px !important;
+	padding-left: 0px !important;
+	padding-right:0px !important;
+  font-family:"Poppins", serif;
+	background-color: #fff0e6 !important;
+}
+
+header p i {
+	padding-top: 30px;
+}
+
+nav ul{
+	margin-bottom: 25px !important;
+}
+
+nav ul li {
+	display: inline-block;
+    padding: 10px;
+}
+
+nav ul li {
+	text-align: center;
+}
+
+
+header {
+	padding: 3px 3px 0px 3px;
+	text-align: center;
+	background-color: lightsalmon;
+	color: maroon;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+	padding: 20px;
+	text-align: center;
+}
+
+
+nav ul li a {
+	color: maroon;
+    text-decoration: none;
+}
+
+p a {
+	color: maroon;
+}
+
+a:hover {
+  text-decoration: underline;
+	font-weight: bold;
+	color: maroon !important;
+}
+
+p , footer {
+font-weight: 400;
+}
+
+h1, h2, h3, h4 {
+font-weight: 900 !important;
+}
+
+section {
+  padding: 1em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  line-height: 2em;
+}
+
+footer {
+  padding: 0.5em !important;
+  text-align: center !important;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  background-color: lightsalmon;
+  font-size: 10px;
+  line-height: 0.2em;
+}
+
+footer p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+nav ul li.active {
+  background-color: #fff0e6;
+}
+
+nav ul li.active a{
+color: lightsalmon !important;
+}
+
+h2, h3, h4 {
+ letter-spacing: 0.08em;
+
+}
+
+
+h2 {
+ font-size: 2em;
+ color: maroon;
+}
+
+h3 {
+ font-size: 1.8em;
+ color: indianred;
+}
+
+h4 {
+ font-size: 1.4em;
+ color: indianred;
+}
+
+p {
+ font-size: 1.2em;
+ letter-spacing: 0.01em;
+}
+
+section a img {
+  height: 60%;
+  width: 60%;
+  border: 6px solid;
+  color: white;
+}
+
+div img, img {
+  height: 40%;
+  width: 40%;
+  border: 6px solid !important;
+  color: white !important;
+}
+
+@media (max-width: 575.98px) {
+	nav ul { padding-left: 0px !important; }
+  nav ul li { display: block !important; }
+
+}
+
+.carousel {
+  background: #fff0e6 !important;
+}
+
+.carousel-item .img-fluid {
+  width: 70% !important;
+  height: 70% !important; 
+}
+
+.carousel-item a {
+  display: block;
+  width:70%;
+  height: 70%;
+}
+
+.carousel-control-prev {
+  color: indianred !important;
+  margin-left: -2em !important;
+  z-index: 10;
+}
+
+.carousel-control-next {
+  color:indianred !important;
+  margin-right: -2em !important;
+}
+
+.carousel-controls a:hover {
+  color: maroon !important;
+}
+
+.carousel-control-prev:hover {
+  color: maroon !important;
+}
+
+.carousel-control-next:hover {
+  color: maroon !important;
+}
+
+div {
+  padding: 1em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  line-height: 2em;
+
+
+
+
+
+
